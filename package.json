@@ -1,0 +1,14 @@
+{
+  "name": "performanceTest",
+  "version": "0.0.1",
+  "description": "A quick and dirty gauge of a functions performance",
+  "main": "performanceTest.ls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance"
+  ],
+  "author": "Dan Miller",
+  "license": "MIT"
+}
