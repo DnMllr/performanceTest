@@ -1,6 +1,6 @@
 {maximum, minimum, mean} = require \prelude-ls
 
-@performanceTest = (times, cb, ...args) ->
+performanceTest = (times, cb, ...args) ->
   | args.length > 0
     start = performance.now!
     laps = [];
